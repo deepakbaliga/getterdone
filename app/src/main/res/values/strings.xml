@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Getter Done</string>
+    <string name="text_getter">Getter</string>
+    <string name="text_done">Done</string>
+    <string name="getter">Getter</string>
+    <string name="done">Done</string>
 </resources>
